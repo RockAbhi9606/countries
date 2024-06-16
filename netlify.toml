@@ -1,4 +1,0 @@
-[build]
-base="/"
-publish="/"
-commond="npm install --force && npm run build"
