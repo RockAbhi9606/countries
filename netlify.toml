@@ -1,0 +1,4 @@
+[build]
+base="/"
+publish="countriesApp/build/"
+commond="npm install --force && npm run build"
