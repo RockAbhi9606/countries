@@ -15,7 +15,7 @@
 .country-details {
     display: flex;
     align-items: center;
-    gap: 64px;
+    gap: 10%;
     margin-top: 64px;
 }
 
@@ -55,7 +55,7 @@
 
 .country-langauge {
     display: block;
-    width: 65%;
+    width: 88%;
 }
 
 @media (max-width: 940px) {
